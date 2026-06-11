@@ -1,12 +1,13 @@
 # Sarthak Chaudhary
 
 ### 🚀 About Me
-- 🌱 I’m currently learning **[Your Skills / Technologies]**
-- 💻 Interested in **[Web Development / AI / Data Science / etc.]**
-- 🎯 Goal: **Build impactful projects and improve my coding skills**
-- 📚 Currently exploring **[Technology/Framework]**
-- 🤝 Open to collaborating on **open-source projects**
-- ⚡ Fun fact: **[Something about you]**
+- 🌱 I’m currently learning Basics of coding.
+- 💻 Interested in Web Development/ Game development
+- 🎯 Goal: Build impactful projects and improve my coding skills.
+- 📚 Currently exploring Technica factors.
+- 🤝 Open to collaborating on Open Projects.
+- ⚡ Fun fact: Am a cloud lover.
+- Ukiyo
 
 ---
 
