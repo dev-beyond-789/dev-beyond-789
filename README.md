@@ -33,9 +33,10 @@
 ---
 
 ## 🌐 Connect With Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
+- GitHub: https://github.com/dev-beyond-789
+- LinkedIn: Not yet made.
+- Email: sarthak1110000@gmail.com
+- 
 
 ---
 
