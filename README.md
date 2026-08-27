@@ -21,8 +21,8 @@
 ---
 
 ## 📌 Current Projects
-- 🔹 Working on **[Project Name]**
-- 🔹 Learning **[New Skill]**
+- 🔹 Working on **[Projects]**
+- 🔹 Learning **[Python]**
 - 🔹 Building my GitHub portfolio
 
 ---
