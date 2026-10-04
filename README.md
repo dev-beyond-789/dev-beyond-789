@@ -22,14 +22,9 @@
 
 ## 📌 Current Projects
 - 🔹 Working on **[Projects]**
-- 🔹 Learning **[Python]**
+- 🔹 Learning **[Javascript (Front End)]**
 - 🔹 Building my GitHub portfolio
-
----
-
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
-
+- 
 ---
 
 ## 🌐 Connect With Me
